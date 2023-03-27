@@ -1,0 +1,13 @@
+.containerGal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+}
+img:hover{
+transform: scale(1.2);
+}

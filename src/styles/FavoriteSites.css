@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+
+}
+.containerFav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+a:link{
+    color: lightblue
+}
+a:hover{
+    color:red;
+}
